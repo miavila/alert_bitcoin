@@ -9,5 +9,5 @@ Crear una plantilla
 
 
 Sustituir los paramentors en el codigo:
-- User ID
-- Template ID
+- User ID (Emaijs->"Integration")
+- Template ID (Emailjs->"Email Templantes")
