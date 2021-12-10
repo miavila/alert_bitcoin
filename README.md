@@ -1,4 +1,4 @@
-# altert_bitcoin
+# altert_bitcoin_price
 Envia un mail (EmailJS) cuando el precio del Bitcoin (o otra cryptomoneda) llege al precio indicado.
 
 Darte de alta a Emailjs (https://emailjs.com)
@@ -9,5 +9,5 @@ Crear una plantilla
 
 
 Sustituir los paramentors en el codigo:
-- User ID (Emaijs->"Integration")
+- En index.html sustituir User ID lo puede encontrar en (Emaijs->"Integration")
 - Template ID (Emailjs->"Email Templantes")
