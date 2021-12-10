@@ -1,4 +1,4 @@
-# altert_bitcoin
+# altert_bitcoin_price
 Envia un mail (EmailJS) cuando el precio del Bitcoin (o otra cryptomoneda) llege al precio indicado.
 
 Darte de alta a Emailjs (https://emailjs.com)
