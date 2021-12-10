@@ -4,8 +4,8 @@ let lastPrice =null;
 
 function sendMail (lastPrice){
     var tempParams = {
-        from_name: 'mia',
-        to_name:'mia',
+        from_name: 'de_nombre',
+        to_name:'para_nombre',
         message:lastPrice
     };
     emailjs.send('service_oiyosvf', 'Template ID', tempParams)
